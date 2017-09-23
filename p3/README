@@ -1,0 +1,42 @@
+Nathan Smith, Joshua Shubert
+CIS 1
+Programming Assignment 3
+
+--EXECUTING PROGRAM--
+To run the program, navigate to programs/source/p3_driver.py
+To generate PA3-A-Debug-Output, enter the following:
+python p3_driver.py A-Debug
+
+To generate the remaining output files, enter B through F-Debug as the second
+argument for the debug files, and G through J-Unknown for the unknown files.
+
+All generated output files may be found in the programs/output folder
+All input files may be found in the programs/data folder
+
+For unit testing, enter the following:
+python p3_tests.py
+
+This will execute 5 unit tests, each of which should pass successfully.
+
+
+--REPORT--
+The program report may be found in the root directory, as p3_report.pdf.
+
+
+--FILE LISTING--
+A listing and description of each of the source files is as follows, and may
+also be found in the program report:
+
+p3_driver.py: The program’s main driver, which generates the output file for a given sample readings input.
+
+ICPread.py: Contains all files for reading input data and generating arrays.
+
+ICPmatch.py: Contains all files for find point cloud transformations and determining ICP matches.
+
+p3_tests.py: Contains test files for calculating d, finding the closest point in a triangle, and performing
+the full linear ICP matching, as well as previous tests for point cloud transformations.
+
+
+--ISSUES--
+If you experience any issues in running the program, please contact me at
+nathansforyou@gmail.com
