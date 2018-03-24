@@ -1,7 +1,3 @@
-Nathan Smith, Josh Shubert
-CIS 1
-Programming Assignment 2
-
 --EXECUTING PROGRAM--
 To run the program, navigate to programs/source/p2_driver.py
 Enter the following:
@@ -36,6 +32,3 @@ calibrate_pivot.py: Contains all pivot calibration functions for finding the est
 correct_distortion.py: Contains all distortion calibration and correction functions for assignment 2.
 
 
---ISSUES--
-If you experience any issues in running the program, please contact me at
-nathansforyou@gmail.com
