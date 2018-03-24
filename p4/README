@@ -1,7 +1,3 @@
-Nathan Smith, Joshua Shubert
-CIS 1
-Programming Assignment 4
-
 --EXECUTING PROGRAM--
 To run the program, navigate to programs/source/p4_driver.py
 To generate PA4-A-Debug-Output using the linear method, enter the following:
@@ -56,8 +52,3 @@ with bounded spheres.
 
 cov_tree_node.py: Contains the covariance tree node class and all essential functions
 for find frame and bounds, generating subtrees, and finding closest points.
-
-
---ISSUES--
-If you experience any issues in running the program, please contact me at
-nathansforyou@gmail.com
