@@ -1,7 +1,3 @@
-Nathan Smith, Joshua Shubert
-CIS 1
-Programming Assignment 3
-
 --EXECUTING PROGRAM--
 To run the program, navigate to programs/source/p3_driver.py
 To generate PA3-A-Debug-Output, enter the following:
@@ -36,7 +32,3 @@ ICPmatch.py: Contains all files for find point cloud transformations and determi
 p3_tests.py: Contains test files for calculating d, finding the closest point in a triangle, and performing
 the full linear ICP matching, as well as previous tests for point cloud transformations.
 
-
---ISSUES--
-If you experience any issues in running the program, please contact me at
-nathansforyou@gmail.com
